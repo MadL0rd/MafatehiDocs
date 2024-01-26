@@ -1,15 +1,15 @@
 {
-    "applinks": {
-      "apps": [
-        "XH984Z6PDK.com.smartairkey.smartairkey"
-      ],
-      "details": [
-        {
-          "appID": "XH984Z6PDK.com.smartairkey.smartairkey",
-          "paths": [
-            "*"
-          ]
-        }
-      ]
-    }
+  "applinks": {
+    "apps": [
+      "XH984Z6PDK.com.smartairkey.smartairkey"
+    ],
+    "details": [
+      {
+        "appID": "XH984Z6PDK.com.smartairkey.smartairkey",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
   }
+}
